@@ -7,5 +7,5 @@
 
 **Drivers:**
 * [Analog Digital Converter](https://github.com/adhamaly/Embedded-System-Drivers/tree/main/Analog-Digital-Converter)
-* [Inter Integrated Circuit](https://github.com/adhamaly/Embedded-System-Drivers/tree/main/Inter-Integrated%20Circuit)
+* [Inter Integrated Circuit](https://github.com/adhamaly/Embedded-System-Drivers/tree/main/Inter-Integrated-Circuit)
 * [Universal Asynchronous ReceiverTransmitter](https://github.com/adhamaly/Embedded-System-Drivers/tree/main/Universal%20Asynchronous%20ReceiverTransmitter)
